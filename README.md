@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**fadumoaideed/fadumoaideed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/13490001/97367217-f8363e00-1865-11eb-8f20-aa565a75df2e.gif">
