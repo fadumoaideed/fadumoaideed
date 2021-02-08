@@ -13,6 +13,20 @@ Hi, I'm Fadumo — a software developer and physicist. Most recently completed t
 | :--- | :--- |
 | 💖 [Dense Discovery](https://www.densediscovery.com/) | 🔪 [Bizzareo Devs](https://bizzarodevs.com/) |
 
+## Skills
+- React
+- Bootstrap 4
+- C++
+- Node
+- Express
+- Material UI
+- Next.js
+- Jest
+- HTML5
+- CSS3
+- Docker
+- PostgreSQL
+- Java
 
 ## About Me
 
