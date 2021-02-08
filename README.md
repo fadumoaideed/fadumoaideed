@@ -11,7 +11,7 @@ Hi, I'm Fadumo — a software developer and physicist. Most recently completed t
 ## 📌 Favourite Newsletters
 | | |
 | :--- | :--- |
-| 💖 [Dense Discovery](https://www.densediscovery.com/) | 🔪 [Bizzareo Devs](https://bizzarodevs.com/) |
+| 💖 [Dense Discovery](https://www.densediscovery.com/)  |
 
 ## Skills
 - React
